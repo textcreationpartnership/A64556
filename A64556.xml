@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge of schism renewed against the separatists in answer to the renewer of that pretended peaceable design, which is falsly call'd, An answer to Dr. Stillingfleet's late sermon.</title>
+            <author>S. T. (Samuel Thomas), 1627-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64556</idno>
+            <idno type="STC">Wing T972</idno>
+            <idno type="STC">ESTC R23566</idno>
+            <idno type="EEBO-CITATION">12072986</idno>
+            <idno type="OCLC">ocm 12072986</idno>
+            <idno type="VID">53534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 582:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge of schism renewed against the separatists in answer to the renewer of that pretended peaceable design, which is falsly call'd, An answer to Dr. Stillingfleet's late sermon.</title>
+                  <author>S. T. (Samuel Thomas), 1627-1693.</author>
+               </titleStmt>
+               <extent>[2], 20, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53534:1"/>
+            <pb facs="tcp:53534:1" rendition="simple:additions"/>
+            <p>THE Charge of Schiſm Renewed againſt the SEPARATISTS, IN ANSWER To the Renewer of that pretended Peaceable Deſign, WHICH IS Falſly call'd, An Anſwer to Dr. <hi>STILLING-FLEET</hi>'s late Sermon.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the Gun in St. <hi>Paul</hi>'s Church-Yard, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53534:2"/>
+            <pb n="1" facs="tcp:53534:2"/>
+            <head>
+               <hi>Doctor</hi> Stillingfleet <hi>Juſtified.</hi>
+            </head>
+            <p>THere was lately put into my hand, a thing call'd an [<hi>Anſwer to Dr. Stillingfleet's Ser<g ref="char:EOLhyphen"/>mon</hi>] (on <hi>Phil. 3. 16.) [by ſome Non-con<g ref="char:EOLhyphen"/>formiſts</hi>]: The Sermon to which it pre<g ref="char:EOLhyphen"/>tends to be an Anſwer, was chiefly deſign'd to ſhew that the Non-conformiſts Meetings in Congre<g ref="char:EOLhyphen"/>gations forbidden by Law, are ſinful Schiſmatical ſepa<g ref="char:EOLhyphen"/>rations. The deſign of this (pretended) Anſwer, is to remove that Charge; which it endeavours to do by giving, 1. <hi>A modeſt account of the Non-conformiſts Meetings.</hi> And, 2. <hi>Some taſte of their Reaſons for Non<g ref="char:EOLhyphen"/>conformity.</hi> Theſe are two of the three things which we are told (<hi>p.</hi> 3.) were deſign'd in that Diſcourſe.</p>
+            <p>As to the firſt, The Pamphlet profeſſes, that the Compoſers of it are in the number of thoſe Non-con<g ref="char:EOLhyphen"/>formiſts, who do not go from the Pariſh Church, in oppoſition to it, as if ſuch Congregations were no Churches: For they expreſly acknowledg, <hi>p. 4. That our Pariſh Churches are true Churches;</hi> and, <hi>That it is their duty to deſire and endeavour the <g ref="char:V">Ʋ</g>nion and Proſperity of thoſe Churches.</hi>
+            </p>
+            <p>
+               <hi>And what</hi> (ſays this Author, p. 4.) <hi>would the Do<g ref="char:EOLhyphen"/>ctor, or any Conformiſt have of us more, unleſs it be alſo to joyn with them there in the participation of the Ordinances?</hi>
+            </p>
+            <p>As if the Doctor had not plainly enough told him and his Companions in Separation, that he would have them ſo true to endeavour after Peace and Union
+<pb n="2" facs="tcp:53534:3"/>
+with the Parochial Churches, as to agree together with them not only in the ſame profeſſion of Faith, but in ſubmitting to the ſame Laws of Government, and Rules of Divine Worſhip. This is that which the Doctor would have them do, and he would have none of them guilty of either a total, or a frequent forbearance of Communion with this Church, or any of its parti<g ref="char:EOLhyphen"/>cular Branches in what themſelves judg lawful, nor of forming ſeparate Congregations under other Teach<g ref="char:EOLhyphen"/>ers, and by other Rules than what the eſtabliſhed Re<g ref="char:EOLhyphen"/>ligion allows, <hi>p.</hi> 20. <q>Whereas on the contrary, of late Years, the Non-conformiſts, ſays he, have fill'd the People with greater prejudices (than for<g ref="char:EOLhyphen"/>merly) againſt our Communion, and gather them into fixt and ſeparate Congregations, which have proceeded to the choice of new Paſtors upon the death of old ones; and except ſome very few, ſcarce any either of their Preachers, or People in <hi>London,</hi> come ordinarily to the publick Congregation, (<hi>p.</hi> 22.) Which, ſays the Doctor, we lament as a thing which unavoidably tends to our common Ruine, if not in time prevented; for by this means the hearts of the People are alienated from each other,</q> 
+               <hi>&amp;c,</hi> 'Tis this obſtinate and deſtructive courſe of Separati<g ref="char:EOLhyphen"/>on which the Doctor deſign'd his Sermon againſt: In which he has made it his buſineſs to enervate the ſtrength of thoſe Pleas which are made uſe of by their beſt Writers, to juſtifie their Separation.</p>
+            <p>To which this Pamphlet pretends to be an Anſwer: And yet the Author of it has not thought fit to reply particularly to any one paſſage therein contain'd, or to ſhew that what the Doctor has oppos'd to their Pleas, is either impertinent, or unſatisfactory. But inſtead of that he endeavours an Apology for thoſe Schiſmatical Practices, by <hi>hinting,</hi> or <hi>holding forth,</hi> for I cannot ſay proving theſe Principles.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:53534:3"/>1. That 'tis the duty of thoſe who are ſet apart to the Office of the Miniſtry, (ſuppoſing them every way to be fit and call'd) to preach the Goſpel by way of diſcharge of that Office.</p>
+            <p n="2">2. That when two Duties come together, ſo that we cannot perform the one but we muſt omit the other; the greater Duty muſt take place of the leſs.</p>
+            <p n="3">3. That Hearing and Preaching being <hi>relata,</hi> which do mutually put and deſtroy one another, the Peoples meeting is authorized by their Preachers commiſſion: And unleſs thoſe Preachers do ſet, and keep up Con<g ref="char:EOLhyphen"/>venticles, the whole generation of the Non<g ref="char:EOLhyphen"/>conformiſt Miniſters muſt be laid aſide from the exerciſe of their Office.</p>
+            <p n="4">4. The People are bound to meet and hear thoſe Preachers, becauſe they are convinced in their Con<g ref="char:EOLhyphen"/>ſciences, that they do edifie more by hearing them, and ſo they alſo have the Plea of [<hi>greater Duty.</hi>]</p>
+            <p>The firſt of theſe, he pretends to prove by the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> expreſs Authority and Example, <hi>Who when they were threatned and commanded to ſpeak no more in Chriſt's Name, have left us their Anſwer on record, We ought to obey God ra<g ref="char:EOLhyphen"/>ther than man.</hi>
+            </p>
+            <p>Which reaſon is impertinent and inſufficient. Im<g ref="char:EOLhyphen"/>pertinent, 1. Becauſe the Apoſtles there ſpoken of [St. <hi>Peter,</hi> and St. <hi>John.</hi>] had an extraordinary Com<g ref="char:EOLhyphen"/>miſſion, and Command to preach the Goſpel, which our <hi>Non-conformiſts</hi> have not; and therefore, <hi>ſuppoſing they were forbidden to preach it by men,</hi> that inſtance would not juſtifie the preaching it not withſtanding that Pro<g ref="char:EOLhyphen"/>hibition: For they can produce no Command of God, which requires them to preach it, and therefore their not preaching it would be no diſobedience to God's Command: But, 2. 'Tis more impertinent upon ano<g ref="char:EOLhyphen"/>ther account, becauſe neither are they forbidden by
+<pb n="4" facs="tcp:53534:4"/>
+the Magiſtrate to preach the Goſpel, but allow'd to do it to their own Families, and to five more, and there<g ref="char:EOLhyphen"/>fore they may, if they are lawfully ſet apart to the Of<g ref="char:EOLhyphen"/>fice of the Miniſtry, exerciſe their preaching Talent. This inſtance therefore being thus impertinent to their Caſe, 'tis inſufficient to juſtifie their Practice.</p>
+            <p>As for his precedent of the three firſt Centuries, <hi>When,</hi> ſaid he, <hi>the Goſpel was never preach'd, but contrary to the will of the Magiſtrate:</hi> I deny that that was well done, unleſs the Preachers could produce ſome Com<g ref="char:EOLhyphen"/>mand of God for ſo doing.</p>
+            <p>And therefore, for my part, I do very much approve that which this Writer calls, <hi>A ſlip of the Pen,</hi> in Dr. <hi>Tillotſon's</hi> Sermon, <hi>That any pretence of Conſcience warrants any man that is not extraordinarily Commiſſioned as the Apo<g ref="char:EOLhyphen"/>ſtles and firſt publiſhers of the Goſpel were, and cannot juſtifie that Commiſſion by Miracles as they did, to affront the Eſta<g ref="char:EOLhyphen"/>bliſht Religion of a Nation, (though it be falſe) and openly to draw men off from the profeſſion of it, in contempt of the Magiſtrate and the Law.</hi> This is a very great and uſeful truth, and I was right glad to meet with it in a Sermon preached by that Eminent Perſon. And the Author of this Pamphlet hath ſaid nothing to the pur<g ref="char:EOLhyphen"/>poſe againſt it.</p>
+            <p>He ſays, that <hi>Affirmative Precepts bind ſemper, but not ad ſemper:</hi> Which we would fain have paſs for a Rea<g ref="char:EOLhyphen"/>ſon, why Proteſtants do not uſe to preach under the In<g ref="char:EOLhyphen"/>quiſition: And tells us, <hi>There's Prudence therefore to be uſed, and Preachers need not be caſt where they will be cer<g ref="char:EOLhyphen"/>tainly trampled on.</hi> He means where <hi>they that caſt them,</hi> will be certainly trampled on. And the truth is, if theſe <hi>Pearl-caſters</hi> did foreſee they ſhould be Rent and Trampled on as they deſerve, I doubt not but they would be brought (by degrees at leaſt) to keep their precious Truths to themſelves, and would be more
+<pb n="5" facs="tcp:53534:4"/>
+wary of Preaching in defiance of the Law that forbids them, if they were ſure that the penalty of the Law would be vigorouſly and conſtantly executed upon them: And that they ſhould get nothing by diſchar<g ref="char:EOLhyphen"/>ging their (<hi>pretended) Duty,</hi> but the (<hi>deſerv'd) re<g ref="char:EOLhyphen"/>ward</hi> of Gaol. But the truth is, there's Money in the caſe, and good ſtore (uſually) of the Wages of Un<g ref="char:EOLhyphen"/>righteouſneſs heaped upon ſuch Malefactors, the hope whereof tempts them to perſiſt in the gain-ſaying of <hi>Corah;</hi> and therefore they haunt thoſe places moſt, where moſt of this Mammon is to be met with: Which puts me in mind of a Paſſage in <hi>Mounſieur Balzac's [Prince] p.</hi> 61. <q>where reflecting on the <hi>Spaniards</hi> Voy<g ref="char:EOLhyphen"/>ages into the <hi>Indies:</hi> It's their avarice, ſays he, makes them croſs the Seas, and run to the Worlds end; they publiſh it is for the good of Souls, and the de<g ref="char:EOLhyphen"/>ſire they have to ſave Infidels, that draws them thi<g ref="char:EOLhyphen"/>ther; and yet 'tis very true, that the charity of theſe good Chriſtians, carries them only to thoſe Coun<g ref="char:EOLhyphen"/>tries where the Sun warms the Earth into <hi>Gold,</hi> and is not at all employ'd toward the fartheſt part of the Earth where there are Souls enough to be Converted, but where they can only get Froſt and Snow.</q>
+            </p>
+            <p>And as for thoſe few of <hi>the good Chriſtians</hi> we are now diſcourſing of, that are leſs fond of Money be<g ref="char:EOLhyphen"/>cauſe they have leſs need of it, having competent Eſtates of their own; the maintaining and keeping up a party, and the cheriſhing and promoting of Schiſm and Sedition, does <hi>their</hi> hearts more good than Money, and is to them a very ſatisfactory recompence for the <hi>factions pains</hi> they take in their <hi>Conventicle-Preach<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>But as for thoſe places where they ſee neither of theſe ends can be attain'd, theſe <hi>Fanatick Miſſionaries</hi>
+               <pb n="6" facs="tcp:53534:5"/>
+will never believe themſelves call'd to exerciſe their Gifts in [<hi>them</hi>] though poſſibly <hi>they</hi> may want ſuch <hi>ediſying Preachers,</hi> as theſe Men pretend themſelves to be, ten times more than <hi>London</hi> and other Places do, where they commonly reſide.</p>
+            <p>And ſo much for the firſt Principle, or Ground pro<g ref="char:EOLhyphen"/>duc'd by this <hi>Author,</hi> of <hi>Non-conformiſts</hi> Preaching con<g ref="char:EOLhyphen"/>trary to Law.</p>
+            <p>The ſecond follows, which is this, that <hi>when two Duties come together, ſo that we cannot perform the one but we muſt omit the other; the greater Duty muſt take place of the leſs:</hi> Now the two Duties which he ſuppoſes, come together in the <hi>Non-conformiſts</hi> Caſe, are ſeeling Unity, and preaching the Goſpel: <hi>If we keep our pariſh-Churches,</hi> ſays he, <hi>we muſt not preach the Goſpel; if we preach the Goſpel, we muſt go to private Meetings.</hi> (Which by the way is falſe: For they may, and I think ſome few of them do, ſo far ſeek Pariſh union, (at leaſt in ſome places diſtant from <hi>London</hi>) as to aſſemble with the reſt of the Pariſhioners, and attend the Church in the time of Divine Service, and Sermons, and then preach to their own Flock in their private Meetings afterward). But our Author inſtead of <hi>proving</hi> by ſound Arguments, that for them to preach the Goſpel (to more than five beſides their own Family) is, 1. Their duty, 2. a greater duty than to ſeek the Uni<g ref="char:EOLhyphen"/>on of the Nation, by preſerving that part of it which conſiſts in complying with Pariſh-Church Order, he only <hi>asks Queſtions, Which of theſe is of greateſt moment to the Glory of God? Which is the greateſt Matter, Sir?</hi> To all his looſe and indigeſted Talk, my Anſwer is briefly this, That in the caſe now before us, there do not come two duties together, the one whereof cannot be per<g ref="char:EOLhyphen"/>form'd; for they may ſeek and maintain the Unity aforeſaid, and yet may preach the Goſpel to ſuch a
+<pb n="7" facs="tcp:53534:5"/>
+number as the Law allows them to preach to, and that 'tis his duty, or the duty of the reſt of the Gang to preach to more, he has not yet prov'd.</p>
+            <p>The third Principle is, that <hi>Hearing and Preaching be<g ref="char:EOLhyphen"/>ing</hi> relata, <hi>which do mutually put and deſtroy one another, the Peoples meeting is authoriz'd by their Preachers Commiſſion; and unleſs thoſe Preachers do ſet and keep up Conventicles, the whole Generation of the Non-conformiſt Miniſters muſt be laid aſide from the exerciſe of their Office.</hi>
+            </p>
+            <p>To which I anſwer. 1. Let your Non-conformiſts prove, if they can, that they have any lawful Com<g ref="char:EOLhyphen"/>miſſion to preach to more than the Law allows them to preach to. For, 2. If they can ſhew no ſuch Com<g ref="char:EOLhyphen"/>miſſion 'tis their duty to be ſilent rather than to preach to a greater number. 3. They who hear them, <hi>may if they pleaſe,</hi> hear other <hi>legally-authoriz'd</hi> Miniſters. 4. It is <hi>their duty</hi> ſo to do: And 'tis a ſin in them to pro<g ref="char:EOLhyphen"/>mote and encourage by their preſence that Faction, Schiſm, and Sedition, which their Preachers are guilty of by preaching againſt Law.</p>
+            <p>The fourth Principle which this Writer pleads in juſtification of the <hi>Non-conformiſts,</hi> is this, That <hi>the People are bound to meet and hear thoſe Preachers, becauſe they are convinced in their Conſciences that they do edifie more by hearing them, and ſo they alſo have the plea of [greater Duty.</hi>]</p>
+            <p>Where he takes it for granted, that a man's expe<g ref="char:EOLhyphen"/>ctation of receiving greater Edification, or his per<g ref="char:EOLhyphen"/>ſuaſion that he ſhall receive greater profit to his Soul by hearing <hi>Non-conformiſts,</hi> than by hearing his own <hi>Conforming Miniſter,</hi> does make it his duty to abſent himſelf from his own <hi>Pariſh Church,</hi> and to go to a more edifying <hi>Conventicle:</hi> For which Principle, one would think he ſhould have <hi>endeavoured</hi> (at leaſt) to have brought ſome cogent Reaſon; but (for ought I
+<pb n="8" facs="tcp:53534:6"/>
+ſee) he has not ſo much as <hi>endeavour'd</hi> it, and if he had, I dare ſay he could not <hi>have effected</hi> it; for 'tis a very falſe and pernicious Principle: For as much as we ought not to do evil, that any, whether leſſer or greater, good may come of it. 'Tis evil to diſobey Authority by tranſgreſſing thoſe Bounds, and break<g ref="char:EOLhyphen"/>ing that Order, which it preſcribes. Our Law requires that every Pariſhioner ſhould attend Divine Service and Sermons in his own Pariſh Church, and to hear and receive the Word from the mouth of his own Pa<g ref="char:EOLhyphen"/>riſh-Miniſter: He ought to obey that Law, and to ex<g ref="char:EOLhyphen"/>pect ſalutary edification in the way of obedience to, and compliance with that Order; and he cannot well<g ref="char:EOLhyphen"/>groundedly expect, or be rightly perſuaded he ſhall re<g ref="char:EOLhyphen"/>ceive it in the way of breaking that Order, and wan<g ref="char:EOLhyphen"/>dring to other Churches and Preachers, eſpecially ſuch as are diſallow'd by Law, for that is not God's way of giving it. He may indeed <hi>fancy</hi> himſelf more edifi'd in ſome reſpects, but 'twill in the end prove a <hi>deluding Edification,</hi> and he'll one day find it <hi>a damnable thing</hi> ſo to attempt greater edification in this or that part of Knowledg or Duty, as in the mean time to neglect other parts of Duty, and to do that which (what<g ref="char:EOLhyphen"/>ſoever this man pretends to the contrary) muſt needs be (interpretatively at leaſt) <hi>a contempt of the Govern<g ref="char:EOLhyphen"/>ment, a neglect, and conſequently diſcouragement of his own Miniſter, with ſcandal to his conforming Neighbours, and therefore inconſiſtent with the rule of Charity, Obedience, and Concord.</hi>
+            </p>
+            <p>Nor is this Principle <hi>falſe</hi> in it ſelf only, but <hi>very pernicious</hi> too in its conſequents, even as to Civils. For if <hi>a Pariſhioner</hi> may leave his own <hi>Pariſh-Miniſter</hi> againſt that Miniſter's will, and the will of the Civil Magiſtrate, <hi>for greater Edification,</hi> by the ſame reaſon, a Son or Daughter may on the ſame account, <hi>leave their
+<pb n="9" facs="tcp:53534:6"/>
+own Parents,</hi> and remove into another Family <hi>againſt their Parents conſent.</hi>
+            </p>
+            <p>The Son or Daughter may pretend (and too often truly plead) that their Father and Mother are unſan<g ref="char:EOLhyphen"/>ctifi'd Perſons, that they are negligent of Religious Family-duties, and take no care to educate their Chil<g ref="char:EOLhyphen"/>dren in the fear of God, and therefore they will for<g ref="char:EOLhyphen"/>ſake Father and Mother, and betake themſelves to ſome other (Godly) Family <hi>for greater Edification:</hi> And ſo this Principle would produce as great Schiſms <hi>in Families</hi> as it does <hi>in Pariſhes:</hi> And therefore let this <hi>greater Edification-Principle</hi> go for a <hi>great Falſhood,</hi> and a <hi>ruining deſtructive Principle.</hi>
+            </p>
+            <p>He talks, p. 7. Of <hi>ſome univerſal impreſſion that there is on the hearts of moſt honeſt People, which,</hi> ſays he, <hi>makes them tenderly ſenſible of the wrong that we have ſuffer'd in being turn'd out of the Vincyard for our Conſciences.</hi>
+            </p>
+            <p>To which I anſwer, That 'tis a very evil thing for <hi>Non-conformiſts</hi> to complain of <hi>ſuffering wrong</hi> for their Conſciences, and to make no conſcience of <hi>doing it.</hi> What do theſe men mean by pretending they were <hi>turn'd out</hi> of Vineyard <hi>for their Conſciences?</hi> The caſe was this, When after the King's Reſtauration, the Par<g ref="char:EOLhyphen"/>liament upon due conſideration of <hi>the horrid Miſchiefs</hi> and <hi>ſad Calamities,</hi> the Land had groan'd under for ſeve<g ref="char:EOLhyphen"/>ral Years, and likewiſe of the <hi>more horrid Principles</hi> which occaſion'd thoſe Miſchiefs and Calamities, both in <hi>Church</hi> and <hi>State,</hi> thought themſelves oblig'd to pre<g ref="char:EOLhyphen"/>vent the like for the future, they agree'd upon an <hi>Act of <g ref="char:V">Ʋ</g>niformity</hi> to that end, wherein the <hi>Peace and Tran<g ref="char:EOLhyphen"/>quility of the State</hi> was endeavoured to be ſecur'd, by en<g ref="char:EOLhyphen"/>joyning the renunciation of ſuch <hi>ſeditious and deſtructive Maxims,</hi> as had before diſturb'd and ruin'd it: And the <hi>proſperity and good order of the Church</hi> provided for, by impoſing the Book of Common-Prayer, and requiring
+<pb n="10" facs="tcp:53534:7"/>
+aſſent and conſent <hi>to the uſe</hi> of the Matters <hi>contain'd and preſcrib'd</hi> in that Book: To which Renunciation and Im<g ref="char:EOLhyphen"/>poſition the Act oblig'd all thoſe to ſubmit, who did then, or had at any time a mind to enjoy any Church-Living, Promotion, or Lecture, in this Nation. To which Act many men that had then Eccleſiaſtical Li<g ref="char:EOLhyphen"/>vings, either could not, or would not Conform: And this they call <hi>being turn'd out of the Vineyard for their Con<g ref="char:EOLhyphen"/>ſciences.</hi> When as the truth is, <hi>They turn'd themſelves out;</hi> being tempted and prevailed upon ſo to do, ei<g ref="char:EOLhyphen"/>ther by their blind and deluded Underſtandings, and miſguided Conſciences, which would not let ſome of them ſee the lawfulneſs of that requir'd ſubmiſſion and compliance, though they had ſtudi'd and examin'd things in order to it, or elſe by their perverſe and ſtub<g ref="char:EOLhyphen"/>born Spirits, being reſolv'd before-hand not to com<g ref="char:EOLhyphen"/>ply, becauſe they thought it would be too great a diſ<g ref="char:EOLhyphen"/>honour to them to contradict their former Principles and Practices, and too great a ſcandal to <hi>the Godly party,</hi> for their Leaders to backſlide, and abandon the goodly Reformation they had been endeavouring and carrying on for ſo many Years.</p>
+            <p>
+               <q>Sir, <hi>For my own part I muſt needs confeſs to you, that I never did ſo much as take it into conſideration whether I ſhould yield or not yield to what was requir'd in the Act for <g ref="char:V">Ʋ</g>nifor<g ref="char:EOLhyphen"/>mity; and that becauſe, 1. Being fully ſatisfi'd, by occaſion of the more ſerious weighing of ſuch Points in theſe latter days, of the unlawfulneſs of thoſe things which in my youn<g ref="char:EOLhyphen"/>ger years I had conform'd readily to, upon little better ground than the example and encouragement of others, I was brought (I hope heartily and ſincerely) to bewail before God my for<g ref="char:EOLhyphen"/>mer conforming to many things, and therefore durſt not think of returning to that, for which I had formerly in ſuch a ſolemn penitential way judg'd my ſelf before the Lord my God. And, 2. Becauſe being now ſo far gone in years,
+<pb n="11" facs="tcp:53534:7"/>
+that I am come to</hi> Jacob'<hi>s muſt die, I cannot live much longer; I was not willing to do any thing that was ſcrupulous and doubtful, leſt upon my Death bed it ſhould prove an occaſion of any diſquiet, or diſturbance to me; yet withal I muſt add, That it was ſome farther ſatisfaction to me, when I found that the very ſame things that ſeem'd moſt dreadful to me, have alſo ſway'd moſt with you in keeping you off from the Conformity requir'd: Namely, 1. Thoſe great words too big for my ſwallow, of unfeigned aſſent and conſent. And, 2. The doing of any thing that is contrary to that Covenanted Reformation which we had ſo long and earneſtly pray'd and labour'd for, or that might be ſcandalous to thoſe that rejoyc'd in the firſt-fruits of it, and do ſtill deſire and endeavour to promote it.</hi>
+               </q>
+            </p>
+            <p>Theſe are the very words of that prime, leading, <hi>London<g ref="char:punc">▪</g> Non-conformiſt,</hi> old <hi>Arthur Jackſon,</hi> in a letter of his, which I have ſtill to ſhew under his own hand, dated <hi>February</hi> 26. 62. And I doubt not but moſt of the <hi>Tribe turn'd themſelves out of the Vineyard</hi> upon the <hi>ſame Temptations,</hi> and yet theſe men have the confidence to cry out of the <hi>wrong they have ſuffer'd in being turn'd out by others.</hi> Which is juſt as if the <hi>Romiſh Prieſts</hi> ſhould complain of the wrong they ſuffer'd by being turn'd and kept out of <hi>England</hi> (which was once ſuch a fruitful Vineyard to them) becauſe ſuch Oaths, and Renunci<g ref="char:EOLhyphen"/>ations, were impos'd upon them, and requir'd to be made and taken by them (for the ſecuring of the Na<g ref="char:EOLhyphen"/>tion againſt their Treaſonable, and Seditious Princi<g ref="char:EOLhyphen"/>ples) as their Conſciences could not comply with. And yet our <hi>Author</hi> pleads for the Law's <hi>juſt ſeverity</hi> againſt them, <hi>p.</hi> 32. of this Pamphlet; where he tells us, That the <hi>Supremacy of the Pope, and the Authority of the King, are inconſiſtent in this Land,</hi>—and that <hi>the Prieſt and Jeſuite are taken by Law, as Factors for the Pope,</hi>—and <hi>an undermining the Government, is,</hi> ſays he, <hi>in all
+<pb n="12" facs="tcp:53534:8"/>
+States a capital Crime.</hi> Even ſo ſay I. The Authority of the <hi>King,</hi> and the owning of thoſe Principles requi<g ref="char:EOLhyphen"/>red to be diſclaim'd in the Act for Uniformity, are in<g ref="char:EOLhyphen"/>conſiſtent in this Land, and therefore that they who will not diſown and declare againſt thoſe Principles, are taken by Law as Factors for another Schiſm and Rebellion, and as Perſons that deſign <hi>again</hi> to under<g ref="char:EOLhyphen"/>mine our Government <hi>Civil</hi> and <hi>Eccleſiaſtical,</hi> and <hi>an un<g ref="char:EOLhyphen"/>dermining the Government is in all States a capital Crime;</hi> and well had it been for this Nation, if <hi>ſuch an under<g ref="char:EOLhyphen"/>mining</hi> of it had been made <hi>Capital</hi> in ours; ſo far am I from being of this Author's mind (in his <hi>ſaucy Inſinu<g ref="char:EOLhyphen"/>ations</hi> in this Page) that 'twas <hi>wrong</hi> and <hi>iniquity</hi> in our Governours <hi>to make ſuch a Law</hi> (for the good of the Nation) as <hi>accidentally occaſion'd</hi> theſe <hi>Apologiſts</hi> to <hi>eject themſelves</hi> out of their Eccleſiaſtical enjoyments.</p>
+            <p>To theſe Apologies of theirs for preaching againſt Law, they preſume it will be ſaid by the Epiſcopal Par<g ref="char:EOLhyphen"/>ty [<hi>But you may Conform.] If ſo,</hi> ſay they, <hi>we muſt then deſire one or both, of theſe Learned, Moderate, and Judici<g ref="char:EOLhyphen"/>ous Doctors</hi> (Stillingfleet, and Tillotſon) <hi>to contribute but this one thing towards it, to anſwer the enſuing Objections, thoſe eſpecially which concern the Political part of Conformity about the</hi> Oxford <hi>Oath and Subſcription.</hi> For, ſay they, <hi>If there be but one particular impos'd upon us as a condition of Conformity, which we prove to be ſinful, and they cannot re<g ref="char:EOLhyphen"/>fel it; there's no man has been more forward than Dr.</hi> Stil<g ref="char:EOLhyphen"/>lingfleet, <hi>to let us know out of</hi> Hales, <hi>That 'tis not the Refu<g ref="char:EOLhyphen"/>ſer but the Impoſer, is guilty of the Schiſm.</hi>
+            </p>
+            <p>That which Mr. <hi>Hales</hi> ſaid, is this, <hi>That there is a Schiſm in which only one party is the Schiſmatick; for where the cauſe of Schiſm is neceſſary, there not he that ſeparates, but he that is the cauſe of ſeparation, is the Schiſmatick.</hi>
+            </p>
+            <p>But with the leave of that great man, and of ano<g ref="char:EOLhyphen"/>ther that <hi>opines</hi> according to that dictate, I do deny
+<pb n="13" facs="tcp:53534:8"/>
+that there can be <hi>any neceſſary cauſe</hi> of Schiſm; for all Schiſm is ſinful, and there can be no neceſſary cauſe of Sin. 2. The Paragraph is <hi>non-ſenſe,</hi> if we ſhould ac<g ref="char:EOLhyphen"/>cept of Mr. <hi>Hales</hi> his own definition of Schiſm: <hi>For,</hi> ſays he, <hi>Schiſm if we would define it, is nothing elſe but an unneceſſary ſeparation of Chriſtians, from that part of the Viſi<g ref="char:EOLhyphen"/>ble Church whereof they were once Members:</hi> The Para<g ref="char:EOLhyphen"/>graph then muſt be thus Paraphras'd. There is a Schiſm in which only one party is the Schiſmatick; for where the cauſe of Schiſm, <hi>that is, of unneceſſary ſeparation of Chriſtians, is neceſſary,</hi> there not he that ſeparates, but he that is the cauſe of ſeparation is the Schiſmatick. The <hi>Non-ſenſe</hi> whereof appears in its own light. 3. 'Tis <hi>abſurd</hi> upon another account; for himſelf grants, that what <hi>Sedition</hi> or <hi>Rebellion</hi> is in the <hi>State,</hi> and in reference to <hi>Civils,</hi> that Schiſm is in the <hi>Church,</hi> and in reference to <hi>Eccleſiaſtical</hi> union. He may as well ſay therefore, that where cauſe of <hi>Rebellion</hi> is neceſſary, there not <hi>he that Rebels,</hi> but he that <hi>is the cauſe of rebellion</hi> is the <hi>Rebel;</hi> which is very pretty when it happens at any time that the <hi>Supreme Governour</hi> proves a <hi>Tyrant:</hi> And ſo upon that (or any other leſs ac<g ref="char:EOLhyphen"/>count) is the <hi>pretended cauſe</hi> of his Subjects Rebelling: Indeed, <hi>a neceſſary cauſe</hi> he cannot be, let him be never ſo great a Tyrant: But that makes that Dictate which this Author would perſuade us the <hi>Doctor</hi> makes <hi>ſo much</hi> uſe of, but <hi>does not,</hi> nor I believe <hi>can</hi> he tell us <hi>where,</hi> ſo much the more abſurd.</p>
+            <p>That Tract of Schiſm tells us, That <hi>when either falſe or uncertain Concluſions are obtruded for truth, and acts ei<g ref="char:EOLhyphen"/>ther unlawful, or miniſtring juſt ſcruple, are required of us to be perform'd, in theſe caſes conſent were Conſpiracy; and open conteſtation is not Faction or Schiſm, but due Chriſtian Ani<g ref="char:EOLhyphen"/>moſity.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:53534:9"/>I ſhall not ſtay to queſtion the truth of this Aſſerti<g ref="char:EOLhyphen"/>on, as to thoſe parts of it [<hi>or uncertain</hi>] and [<hi>or mini<g ref="char:EOLhyphen"/>ſtring juſt ſcruple</hi>]: But though (I ſhould allow him that) in thoſe caſes <hi>conſent were Conſpiracy,</hi> yet <hi>open con<g ref="char:EOLhyphen"/>teſtation</hi> againſt <hi>our proper Governours may be ſinful.</hi> He has not told us what he means by the Expreſſion; nor what ſort and kind, what meaſures and degrees of <hi>open Conteſtation</hi> he intended; but I affirm, there's a <hi>me<g ref="char:EOLhyphen"/>dium</hi> between <hi>Conſent,</hi> and <hi>open Conteſtation;</hi> and that is an humble and modeſt Refuſal to comply with thoſe impos'd Propoſitions or Actions, which upon due en<g ref="char:EOLhyphen"/>quiry, and diligent examination, we judg untrue, or unlawful; and humbly and meekly tendring our Rea<g ref="char:EOLhyphen"/>ſons if required, why we ſo judg. That any <hi>greater Conteſtation</hi> then this amounts to, of <hi>Subjects</hi> againſt <hi>their Governours,</hi> is in any caſe neceſſary or lawful, is more than I believe can be prov'd. I am ſure if the Conteſtation be ſo open, and proceed ſo far as either to ſet up another <hi>Biſhop</hi> in oppoſition to the former, or to <hi>erect a new Church,</hi> or Oratory for the dividing Part to meet in publickly, Mr. <hi>Hales</hi> himſelf pronounces ſuch ſeparations <hi>compleat Schiſms,</hi> and till this be done, <hi>the Schiſm</hi> he tells us, <hi>is but yet in the Womb.</hi> And, as he goes on, <hi>In that famous Controverſie in</hi> Holland, De Prae<g ref="char:EOLhyphen"/>deſtinatione &amp; Auxiliis; <hi>As long as the diſagreeing Parties went no further than Diſputes and Pen-combats, the Schiſm was all that while un-hatch'd; but as ſoon as one Party ſwept an old Cloyſter, and by a pretty Art ſuddenly made it a Church, by putting a new Pulpit in it for the ſeparating Party there to meet: Now what before was a Controverſie, became a formal Schiſm.</hi> Whence it follows that <hi>even in this man's judg<g ref="char:EOLhyphen"/>ment,</hi> our <hi>Non-conforming Barn-ſweepers,</hi> and (in them) <hi>Pulpit erectors,</hi> in order to meeting and preaching againſt Law, are <hi>formal Schiſmaticks.</hi> To the ſame purpoſe, <hi>Arthur Jackſon</hi> aforeſaid, in the ſame Letter before
+<pb n="15" facs="tcp:53534:9"/>
+quoted has theſe words,—<hi>I confeſs I dread the falling upon the Rock of Separation; but as long as I deſire not to ſet up a new Church, but am willing to joyn with the Publick Aſ<g ref="char:EOLhyphen"/>ſemblies in Hearing and Prayer, and only withdraw from what is not of Scripture-Inſtitution; I hope this partial Non com<g ref="char:EOLhyphen"/>munion cannot be juſtly called Separation.</hi>
+            </p>
+            <p>
+               <q>In the ſame Tract, Mr. <hi>Hales</hi> aſſerts, <hi>That it is not lawful, no not for Prayer, or Hearing, for Conference, or any other Religious Office whatſoever, for People to aſſemble, otherwiſe than by publick Order is allow'd; neither,</hi> ſays he, <hi>may we complain of this in times of Incorruption: For why ſhould men deſire to do that ſuſpiciouſly in private which may warrantably be perform'd in publick?</hi> And in another part of the ſame Treatiſe, '<hi>What,</hi> ſays he, <hi>if thoſe to whom the execution of the publick Service is committed, do ſome thing either unſeemly, or ſuſpicious, or peradventure unlawful? What if the Garments they wear be cenſured, which indeed be, ſuperſtitious? What if the geſture of Ado<g ref="char:EOLhyphen"/>ration be us'd to the Altars?—What if the Homiliſt have preach'd, or deliver'd, any Doctrine of the Truth whereof we are not well perſuaded? A thing which very often falls out, yet we may not Separate, except we be conſtrain'd per<g ref="char:EOLhyphen"/>ſonally to bear a part in them our ſelves. The Prieſts under</hi> Eli <hi>had ſo ill demean'd themſelves about the daily Sacrifice, that the Scripture tells us they made them to ſtink, yet the People refus'd not to come to the Tabernacle, nor to bring their Sacrifice to the Prieſt. For in thoſe Schiſms which con<g ref="char:EOLhyphen"/>cern Fact, nothing can be a juſt cauſe of refuſing Communion, but only to require the execution of ſome unlawful, or ſuſpe<g ref="char:EOLhyphen"/>cted Act.</hi>
+               </q> Thus he, which paſſage by the way may ſerve for <hi>a rebuke</hi> to theſe mens <hi>greater edification-Argu<g ref="char:EOLhyphen"/>ment,</hi> before inſiſted on.</p>
+            <p>But becauſe that expreſſion [<hi>or ſuſpected Act</hi>] comes trumping in our way again, I ſhall here take ſo much notice of it, as to acquaint the Reader, if he know it
+<pb n="16" facs="tcp:53534:10"/>
+not already, that not only <hi>very conſiderable Epiſcopal men,</hi> but <hi>ſome Presbyterians</hi> too, are ſo far from thinking, that Governours requiring men to do an Act which they <hi>ſcruple</hi> or <hi>ſuſpect</hi> the lawfulneſs of, is <hi>a juſt ground for Separation,</hi> that they deny it to be a juſt ground for <hi>non-performance of that Act;</hi> and on the contrary aſſert it mens <hi>duty</hi> in that caſe to <hi>do the thing commanded.</hi> So the <hi>French Presbyterian Divines,</hi> and <hi>Profeſſors at</hi> Saumur, (<hi>Theſ. Salmur. de ſummo Controverſ. Judice, Sect. 46.) Sane quum demonſtrari non poteſt id quod jubetur aut ſtatui<g ref="char:EOLhyphen"/>tur repugnare regulae à Deo traditae, acquieſcendum eſſe definitioni non negamus, vel ob hoc ipſum quod ſic ab iis qui ordine legitimo conſtituti ſunt definitum eſt, quos decet &amp; vero ſimile eſt eſſe reliquis prudentiores, &amp; perſpicaciores.</hi> To the ſame purpoſe, <hi>Baxter</hi> in his <hi>Diſput. of Church-Go<g ref="char:EOLhyphen"/>vernment,</hi> p. 484. <q>
+                  <hi>As an erroneous judgment will not,</hi> ſays he, <hi>excuſe us from diſobedience to our Governours, ſo much leſs will a doubtfulneſs excuſe us. If upon adviſing with our Teachers we remain in doubt about the lawfulneſs of ſome circumſtance of Order—if it may not be diſpens'd with without a greater injury to the Church, or cauſe of God, than our Diſpenſation will countervail, then is it our duty to obey our Teachers, notwithſtanding ſuch doubts; for it being their Office to teach us, it muſt be our duty to believe them with an Humane Faith, in caſes where we have no evidences to the contrary; and the duty of obeying them being certain, and the ſinfulneſs of the thing commanded being uncertain, and un<g ref="char:EOLhyphen"/>known, and only ſuſpected, we muſt go on the ſurer ſide.</hi>
+               </q>
+            </p>
+            <p>'Tis time now to return to our <hi>Apologiſts,</hi> who, I think, have got nothing by tempting me by that Quotation out of <hi>Hales,</hi> to conſult the Author himſelf; ſince the other Dictates which I met with on this occaſion in the ſame Treatiſe, involve their ſeparated, forbidden, Meetings for publick Worſhip <hi>in Anti-Churches</hi> of their own, in the guilt of <hi>Schiſm,</hi> and make the worſhippers there <hi>formal Schiſmaticks.</hi>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:53534:10"/>That ſome notions in the latter part of this very <hi>Pamphlet,</hi> contribute very much to the proving thoſe men Schiſmaticks, whom the former part would excuſe from that Crime. <q>For, <hi>p.</hi> 31. thus we read, <hi>It is not all ſeparation or diviſion is Schiſm, but ſinful Diviſion. Now the Supreme Authority as National Head, having appointed the Parochial Meetings, and requir'd all the Subjects of the Land to frequent them, and them alone, for the Acknowledging, Glorifying, or National Serving and Worſhipping the one only true God, and his Son, whom we have generally receiv'd, and this Worſhip or Service in the nature of it being intrinſically good, and the external Order, ſuch as that of Time, and Place, and the like Circumſtances, being properly under his Juriſdiction, it hath ſeem'd to us hitherto, that un<g ref="char:EOLhyphen"/>leſs there was ſomething in that Order and Way preſcrib'd which is ſinful, and that requir'd too as a condition of that Communion, there's no man could refuſe his atten<g ref="char:EOLhyphen"/>dance univerſally on theſe Parochial Aſſemblies without the ſin of diſobedience, and conſequently his ſeparation thereby becoming ſinful, proves Schiſm. But,</hi> ſays he, <hi>if the Scene be alter'd, and thoſe ſeparate Aſſemblies made le<g ref="char:EOLhyphen"/>gal, the Schiſm in reference to the National Church, upon the ſame account doth vaniſh. Schiſm is a ſeparation from that Church whereof we ought, or are bound to be Members: If the Supreme Authority then looſe our Ob<g ref="char:EOLhyphen"/>ligation to the Pariſh- Meeting ſo that we are bound no longer, the Iniquity (we ſay upon this account) is not to be found, and the Schiſm gone.</hi>
+               </q>
+            </p>
+            <p>From which premiſes this Concluſion does evi<g ref="char:EOLhyphen"/>dently follow: That until the Supreme Authority looſens the Obligation of Pariſhioners to the Pariſh-Meeting, they ought and are bound to behave them<g ref="char:EOLhyphen"/>ſelves <hi>as Members of their reſpective Pariſhes,</hi> and not
+<pb n="18" facs="tcp:53534:11"/>
+to ſeparate from them. For if they do 'tis an unlaw<g ref="char:EOLhyphen"/>ful ſeparation, that is, 'tis <hi>Schiſm.</hi>
+            </p>
+            <p>He ſays indeed, that no man could refuſe his at<g ref="char:EOLhyphen"/>tendance [<hi>univerſally</hi>] on Parochial Aſſemblies without the ſin of diſobedience: To which I ſay, 1. That however then they who do <hi>univerſally refuſe their attendance,</hi> which I preſume a very great num<g ref="char:EOLhyphen"/>ber, if not much the greater part of <hi>Conventicles</hi> do, muſt be accounted <hi>Schiſmaticks</hi> by his own Do<g ref="char:EOLhyphen"/>ctrine. 2. If an univerſal non-attendance on Pa<g ref="char:EOLhyphen"/>riſh-Aſſemblies be a ſinful ſeparation, and conſe<g ref="char:EOLhyphen"/>quently Schiſm, <hi>becauſe 'tis a ſin of diſobedience,</hi> then every particular abſence, and non-attendance up<g ref="char:EOLhyphen"/>on them is ſinful, and conſequently Schiſmatical, becauſe <hi>'tis a ſin of diſobedience</hi> (in Eccleſiaſtical Mat<g ref="char:EOLhyphen"/>ters) againſt that Authority which requires the Pariſhioners of this Nation not only <hi>frequently</hi> but <hi>conſtantly,</hi> to attend their own Pariſh Churches.</p>
+            <p>Now if being thus preſs'd, he ſhall think fit to fly off from his words, and to ſay, That if the Supreme Authority requires all the Subjects to <hi>frequent</hi> the Parochial Meetings, <hi>and thoſe only,</hi> they who do not <hi>frequent</hi> them, but be take themſelves to other Aſſem<g ref="char:EOLhyphen"/>blies are guilty of ſuch <hi>a degree of diſobedience</hi> as will amount to Schiſm, then if any of thoſe Subjects do <hi>(but) frequent</hi> Conventicles, (though they are not <hi>univerſally</hi> there, but are <hi>ſometimes</hi> preſent at their <hi>own Churches</hi>) they muſt be granted to be Schiſma<g ref="char:EOLhyphen"/>ticks; and if ſo, he agrees at laſt with that Doctor and that Sermon, which he pretends to Anſwer: In which for ought I obſerve, the moſt that Dr. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet</hi> contends for, is, That all who own <hi>our Pa<g ref="char:EOLhyphen"/>riſh Churches</hi> as <hi>true Churches,</hi> would not either <hi>total<g ref="char:EOLhyphen"/>ly,</hi> or <hi>ordinarily,</hi> forbear Communion with them in thoſe things which they judg lawful; nor proceed
+<pb n="19" facs="tcp:53534:11"/>
+to form ſeparate Congregations under other Teach<g ref="char:EOLhyphen"/>ers, and by other Rules than what the eſtabliſh'd Religion allows, (<hi>p.</hi> 20.) whereas (as he com<g ref="char:EOLhyphen"/>plains, <hi>p. 22.) Except ſome very few, ſcarce any either of the diſſenting Preachers or People in</hi> London, <hi>come or<g ref="char:EOLhyphen"/>dinarily to the publick Congregations;</hi> upon which ac<g ref="char:EOLhyphen"/>count he charges them with Schiſm; in which guilt this very Author does (for ought I ſee) involve them in this very Pamphlet, which was deſign'd to vindicate them from that Guilt.</p>
+            <p>To which Pamphlet I ſhall ſay no more at preſent, becauſe I have already reply'd to all that part of it in which the <hi>Doctor</hi>'s Sermon is concern'd: For the following parts of it which are taken up in Apolo<g ref="char:EOLhyphen"/>gizing for their <hi>Preachers Non<g ref="char:punc">▪</g> conformity,</hi> and their re<g ref="char:EOLhyphen"/>fuſing to comply with thoſe things which are im<g ref="char:EOLhyphen"/>pos'd upon them, to make them <hi>Legal Miniſters</hi> of this Church and Nation, are perfectly alien and im<g ref="char:EOLhyphen"/>pertinent to Dr. <hi>Stillingfleet</hi>'s Sermon.</p>
+            <p>In the 19th P. whereof he himſelf profeſſes, that he <hi>did not intend to ſpeak of the Terms upon which Perſons are to be admitted among us, to the exerciſe of the Function of the Miniſtry, but of the Terms of Lay-Communion, that is, thoſe which are neceſſary for all Perſons to joyn in our Prayers and Sacraments, and other Offices of Divine Worſhip.—Some of the moſt impartial of the Diſſenters themſelves confeſſing, That very little is to be ſaid on the behalf of the Peoples ſeparating;</hi> from whom none of thoſe Subſcriptions, or Declarations are requir'd, that are requir'd of thoſe that would be Autho<g ref="char:EOLhyphen"/>riz'd Preachers. So that <hi>the People,</hi> ſays he, <hi>are con<g ref="char:EOLhyphen"/>demn'd in their ſeparation by their own Teachers; But how they can preach lawfully to a People who commit a fault in hearing them,</hi> the Doctor profeſſes not to underſtand. An oppoſite Anſwer to which one paſſage of the <hi>Do<g ref="char:EOLhyphen"/>ctor</hi>'s
+<pb n="20" facs="tcp:53534:12"/>
+Sermon would have been more to the purpoſe, than all that theſe <hi>Apologiſts</hi> ſay for themſelves in this Pamphlet. In which they have not been ſo kind as to aſſiſt the <hi>Doctor</hi>'s Intellectuals in this matter, by making any other Apologies for the Peoples ſepara<g ref="char:EOLhyphen"/>ting, than what have been already Anſwer'd; and therefore I have done the Task I undertook in refe<g ref="char:EOLhyphen"/>rence to that Sermon; and ſhall not (at this time at leaſt) take any notice of the Objections made by this Author, in behalf <hi>of their Preachers,</hi> to the Re<g ref="char:EOLhyphen"/>ordination, Declaration, and Subſcription, requir'd in the Act for Uniformity, nor manifeſt the <hi>Blun<g ref="char:EOLhyphen"/>ders, Falſhoods,</hi> and <hi>Impertinencies</hi> contain'd in thoſe Objections.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:53534:12"/>
+            <head>
+               <hi>Henry Brome</hi>'s Advertiſement, 1680.</head>
+            <p>WHereas there are ſeveral Diſcourſes and Pamphlets abroad in the World, that paſs for the Writings of Mr. <hi>Roger L'Eſtrange;</hi> wherein he never had any hand at all: This is to Ad<g ref="char:EOLhyphen"/>vertiſe the Reader, that he hath lately Publiſhed theſe following Pieces, (all but the Three laſt) and no other.</p>
+            <list>
+               <item>
+                  <hi>Toleration Diſcuſs'd,</hi> in a Dialogue betwixt a <hi>Conformiſt</hi> and a <hi>Non-conformiſt,</hi> and betwixt a <hi>Presbyterian</hi> and an <hi>Independent.</hi>
+               </item>
+               <item>
+                  <hi>Seneca</hi>'s Morals Abſtracted.</item>
+               <item>The <hi>Guide</hi> to <hi>Eternity.</hi>
+               </item>
+               <item>
+                  <hi>Tully</hi>'s <hi>Offices,</hi> in Engliſh.</item>
+               <item>Twenty <hi>Select Colloquies</hi> of <hi>Eraſmus</hi> in Engliſh.</item>
+               <item>
+                  <hi>Tyranny</hi> and <hi>Popery,</hi> Lording it over the Conſciences and Lives of the King and People.</item>
+               <item>The <hi>Reformed Catholick.</hi>
+               </item>
+               <item>The <hi>Hiſtory</hi> of the <hi>Plot,</hi> in Folio.</item>
+               <item>The <hi>Free born Subject.</hi>
+               </item>
+               <item>The <hi>Caſe</hi> put for the Duke of <hi>York.</hi>
+               </item>
+               <item>An <hi>Anſwer</hi> to the <hi>Appeal.</hi>
+               </item>
+               <item>
+                  <hi>Seaſonable Memorials.</hi>
+               </item>
+               <item>The <hi>Parallel,</hi> or, The <hi>Growth</hi> of <hi>Knavery.</hi>
+               </item>
+               <item>A Dialogue betwixt a <hi>Citizen</hi> and <hi>Bumpkin.</hi>
+               </item>
+               <item>A Dialogue betwixt a <hi>Citizen</hi> and <hi>Bumpkin,</hi> the ſecond Part.</item>
+               <item>A further Diſcovery of the <hi>Plot,</hi> with a Letter to Dr. <hi>Titus Oats.</hi>
+               </item>
+               <item>An <hi>Anſwer</hi> to a Letter of <hi>Libellers.</hi>
+               </item>
+               <item>The <hi>Gentleman Apothecary.</hi>
+               </item>
+               <item>Five <hi>Love-Letters</hi> Tranſlated.</item>
+               <item>
+                  <hi>Diſcovery</hi> on <hi>Diſcovery</hi> in a ſecond Letter to Dr. <hi>Titus Oats.</hi>
+               </item>
+               <item>The <hi>Committee,</hi> or, <hi>Popery</hi> in <hi>Maſquerade,</hi> curiouſly done in a Copper-Plate.</item>
+               <item>Narrative of the <hi>Plot.</hi>
+               </item>
+            </list>
+            <list>
+               <item>The <hi>Way</hi> of <hi>Peace.</hi>
+               </item>
+               <item>The <hi>Arts</hi> and <hi>Pernitious Deſigns</hi> of <hi>Rome.</hi>
+               </item>
+               <item>The <hi>Conſpiracy</hi> of <hi>Atheiſm</hi> and <hi>Schiſm.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
